@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">fesc-login</string>
+    <string name="nombre">Nombre:</string>
+    <string name="cedula">Cedula:</string>
+    <string name="button">Button</string>
+    <string name="editar">editar</string>
+    <string name="cambiar_contraseña">cambiar contraseña</string>
+    <string name="cerrar_sesion">cerrar sesion</string>
+</resources>
